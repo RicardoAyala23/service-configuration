@@ -1,3 +1,3 @@
 # service-configuration
 
-# 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
+# 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
